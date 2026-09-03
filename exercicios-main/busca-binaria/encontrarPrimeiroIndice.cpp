@@ -46,6 +46,7 @@ int buscaRecursiva (int inicio, int fim, const int arr[], int alvo) {
         return validaBuscaRecursiva(arr, alvo, meio);
     }
 }
+
 int encontrarPrimeiroIndice(const int arr[], int tamanho, int alvo) {
     
 
